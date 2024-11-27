@@ -1,6 +1,6 @@
 # My Project Portfolio ✉️
 
-## Featured Projects⭐
+## Featured Projects
 *Note: Featured projects showcase only some of my skillsets.* 🙏
 
 - **Creating and Analyzing a Pizza Joint Database**: A SQL and Power BI 📊 project analyzing a pizza joint's database for operational insights.  
