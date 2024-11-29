@@ -3,7 +3,7 @@
 ## Featured Projects
 *Note: Featured projects showcase only some of my skillsets.* 🙏
 
-- **Creating and Analyzing a Pizza Joint Database**: A SQL and Power BI 📊 project analyzing a pizza joint's database for operational insights.  
+- **Creating and Analyzing a Sales Database**: A SQL and Power BI 📊 project analyzing a pizza joint's database for operational insights.  
   [![Check it out!](https://img.shields.io/badge/Check%20it%20out!-orange?style=flat-square&color=orange)](https://github.com/Codeventurer144/SQL-BI-Analysis)
 
 - **Analyzing Housing Data for Insights and Predictive Modeling**: A Python Analytics 📈 project for predictive modeling and trend analysis in housing data.  
