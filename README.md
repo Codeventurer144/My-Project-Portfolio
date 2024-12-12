@@ -1,4 +1,4 @@
-# My Project Portfolio ✉️
+# My Project Portfolio 💼
 
 ## Featured Projects
 *Note: Featured projects showcase only some of my skillsets.* 🙏
